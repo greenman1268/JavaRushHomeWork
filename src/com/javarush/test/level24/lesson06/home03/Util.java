@@ -36,7 +36,7 @@ public class Util
 
             }
 
-            abstract String setName ();
+            abstract String setName();
 
             @Override
             public String toString()
